@@ -1,9 +1,3 @@
-"""
-Problem ta hocche ami p array ta clf.fit e argument dite chai.p ta holo amar input array ar y ta output array.
-Changes gulo kore diye amar whatsapp no. e diye dio program ta please.9647972747"""
-
-
-
 import numpy as np
 from sklearn import linear_model
 array=[]
