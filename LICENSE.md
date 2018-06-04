@@ -2,6 +2,9 @@ MIT License
 
 Copyright (c) 2018 garain
 
+To use the programs pay a nominal fee of 20 INR via paytm.
+Paytm no.-9647972747.
+
 Permission is hereby granted,not free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including with limitation the rights
